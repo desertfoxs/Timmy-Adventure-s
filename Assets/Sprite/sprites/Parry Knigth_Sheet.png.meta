@@ -1,0 +1,2054 @@
+fileFormatVersion: 2
+guid: dd153ba7cb8b31e4a98943ebc4f126a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7645983601111964334
+    second: Parry Knigth_Sheet_0
+  - first:
+      213: 8292004118332646109
+    second: Parry Knigth_Sheet_1
+  - first:
+      213: -5611261331011946905
+    second: Parry Knigth_Sheet_2
+  - first:
+      213: 2196660695378529829
+    second: Parry Knigth_Sheet_3
+  - first:
+      213: 1084245318885690006
+    second: Parry Knigth_Sheet_4
+  - first:
+      213: -5347061070062676027
+    second: Parry Knigth_Sheet_5
+  - first:
+      213: -2876586952997184466
+    second: Parry Knigth_Sheet_6
+  - first:
+      213: -344598718323751429
+    second: Parry Knigth_Sheet_7
+  - first:
+      213: -5625644427007151057
+    second: Parry Knigth_Sheet_8
+  - first:
+      213: -5385204368203380772
+    second: Parry Knigth_Sheet_9
+  - first:
+      213: -7892415705431640798
+    second: Parry Knigth_Sheet_10
+  - first:
+      213: 2790847406832795444
+    second: Parry Knigth_Sheet_11
+  - first:
+      213: 5572703153641263583
+    second: Parry Knigth_Sheet_12
+  - first:
+      213: -342155885244906209
+    second: Parry Knigth_Sheet_13
+  - first:
+      213: 6993227913431078107
+    second: Parry Knigth_Sheet_14
+  - first:
+      213: 6045167459438871379
+    second: Parry Knigth_Sheet_15
+  - first:
+      213: -39627610297187942
+    second: Parry Knigth_Sheet_16
+  - first:
+      213: 992224510142434493
+    second: Parry Knigth_Sheet_17
+  - first:
+      213: 5257462958456308723
+    second: Parry Knigth_Sheet_18
+  - first:
+      213: -640027602219968248
+    second: Parry Knigth_Sheet_19
+  - first:
+      213: -573441670336693365
+    second: Parry Knigth_Sheet_20
+  - first:
+      213: 8547789146588961901
+    second: Parry Knigth_Sheet_21
+  - first:
+      213: -2730669951011692744
+    second: Parry Knigth_Sheet_22
+  - first:
+      213: 1032607798568708977
+    second: Parry Knigth_Sheet_23
+  - first:
+      213: -3714935983073855993
+    second: Parry Knigth_Sheet_24
+  - first:
+      213: -3629578082465577037
+    second: Parry Knigth_Sheet_25
+  - first:
+      213: 6264684164549370403
+    second: Parry Knigth_Sheet_26
+  - first:
+      213: -415731798795368010
+    second: Parry Knigth_Sheet_27
+  - first:
+      213: -2237788908507896369
+    second: Parry Knigth_Sheet_28
+  - first:
+      213: 5402919265724318650
+    second: Parry Knigth_Sheet_29
+  - first:
+      213: 2544675269727484199
+    second: Parry Knigth_Sheet_30
+  - first:
+      213: 3311064243582930888
+    second: Parry Knigth_Sheet_31
+  - first:
+      213: 1594193815030181310
+    second: Parry Knigth_Sheet_32
+  - first:
+      213: 696559923975155554
+    second: Parry Knigth_Sheet_33
+  - first:
+      213: -4161872367125097219
+    second: Parry Knigth_Sheet_34
+  - first:
+      213: -2813034213717923829
+    second: Parry Knigth_Sheet_35
+  - first:
+      213: -1414315133078774141
+    second: Parry Knigth_Sheet_36
+  - first:
+      213: -4569804442911463818
+    second: Parry Knigth_Sheet_37
+  - first:
+      213: -1979326813752179698
+    second: Parry Knigth_Sheet_38
+  - first:
+      213: -252023211767363291
+    second: Parry Knigth_Sheet_39
+  - first:
+      213: -966262693971805100
+    second: Parry Knigth_Sheet_40
+  - first:
+      213: -8220570976842255341
+    second: Parry Knigth_Sheet_41
+  - first:
+      213: -280258457171382292
+    second: Parry Knigth_Sheet_42
+  - first:
+      213: -2826069380460193669
+    second: Parry Knigth_Sheet_43
+  - first:
+      213: -7524727555397887568
+    second: Parry Knigth_Sheet_44
+  - first:
+      213: 7665971843606721019
+    second: Parry Knigth_Sheet_45
+  - first:
+      213: 82633163183949551
+    second: Parry Knigth_Sheet_46
+  - first:
+      213: -1043424370446011553
+    second: Parry Knigth_Sheet_47
+  - first:
+      213: 4518257107364511217
+    second: Parry Knigth_Sheet_48
+  - first:
+      213: 6105733798652435325
+    second: Parry Knigth_Sheet_49
+  - first:
+      213: 1504058178654625080
+    second: Parry Knigth_Sheet_50
+  - first:
+      213: -6976358757075188353
+    second: Parry Knigth_Sheet_51
+  - first:
+      213: -1488733253522203341
+    second: Parry Knigth_Sheet_52
+  - first:
+      213: -3474254638911818123
+    second: Parry Knigth_Sheet_53
+  - first:
+      213: -3977762530638816151
+    second: Parry Knigth_Sheet_54
+  - first:
+      213: -624881588272613654
+    second: Parry Knigth_Sheet_55
+  - first:
+      213: -3758870903822717735
+    second: Parry Knigth_Sheet_56
+  - first:
+      213: -4205435627434223908
+    second: Parry Knigth_Sheet_57
+  - first:
+      213: 5048244413715439289
+    second: Parry Knigth_Sheet_58
+  - first:
+      213: -2895786076861919992
+    second: Parry Knigth_Sheet_59
+  - first:
+      213: -1994820191547185494
+    second: Parry Knigth_Sheet_60
+  - first:
+      213: 8280505429302296690
+    second: Parry Knigth_Sheet_61
+  - first:
+      213: -2689250722309059830
+    second: Parry Knigth_Sheet_62
+  - first:
+      213: 1820616582841390262
+    second: Parry Knigth_Sheet_63
+  - first:
+      213: 7678567752709713003
+    second: Parry Knigth_Sheet_64
+  - first:
+      213: -8175254479969482829
+    second: Parry Knigth_Sheet_65
+  - first:
+      213: -4754899968999703849
+    second: Parry Knigth_Sheet_66
+  - first:
+      213: 2318603939633927271
+    second: Parry Knigth_Sheet_67
+  - first:
+      213: -3476478338699942391
+    second: Parry Knigth_Sheet_68
+  - first:
+      213: -3456645777918154623
+    second: Parry Knigth_Sheet_69
+  - first:
+      213: 6000263382648200671
+    second: Parry Knigth_Sheet_70
+  - first:
+      213: -1008308959883882138
+    second: Parry Knigth_Sheet_71
+  - first:
+      213: -1457810821239844405
+    second: Parry Knigth_Sheet_72
+  - first:
+      213: -8417346775952333729
+    second: Parry Knigth_Sheet_73
+  - first:
+      213: -6212348629365742222
+    second: Parry Knigth_Sheet_74
+  - first:
+      213: 6765593463800206114
+    second: Parry Knigth_Sheet_75
+  - first:
+      213: -3011793413368700263
+    second: Parry Knigth_Sheet_76
+  - first:
+      213: 4932607785564067024
+    second: Parry Knigth_Sheet_77
+  - first:
+      213: 5388020628777655168
+    second: Parry Knigth_Sheet_78
+  - first:
+      213: -7643531421777281979
+    second: Parry Knigth_Sheet_79
+  - first:
+      213: 296135522896435415
+    second: Parry Knigth_Sheet_80
+  - first:
+      213: 834426756547158669
+    second: Parry Knigth_Sheet_81
+  - first:
+      213: -4628112645505755716
+    second: Parry Knigth_Sheet_82
+  - first:
+      213: 627838158351062870
+    second: Parry Knigth_Sheet_83
+  - first:
+      213: -13806975159038488
+    second: Parry Knigth_Sheet_84
+  - first:
+      213: 1477853677362156432
+    second: Parry Knigth_Sheet_0
+  - first:
+      213: -4440705004336025885
+    second: Parry Knigth_Sheet_1
+  - first:
+      213: 8418563445552899513
+    second: Parry Knigth_Sheet_2
+  - first:
+      213: -5544015791727882547
+    second: Parry Knigth_Sheet_3
+  - first:
+      213: -5073917805708846216
+    second: Parry Knigth_Sheet_4
+  - first:
+      213: 5021637476692153815
+    second: Parry Knigth_Sheet_5
+  - first:
+      213: -5004562538396153234
+    second: Parry Knigth_Sheet_6
+  - first:
+      213: -8091114047127758508
+    second: Parry Knigth_Sheet_7
+  - first:
+      213: 4721803771613337314
+    second: Parry Knigth_Sheet_8
+  - first:
+      213: -7532545713613577633
+    second: Parry Knigth_Sheet_9
+  - first:
+      213: 8675734210352431060
+    second: Parry Knigth_Sheet_10
+  - first:
+      213: -6527752528209148076
+    second: Parry Knigth_Sheet_11
+  - first:
+      213: 37329001679861885
+    second: Parry Knigth_Sheet_12
+  - first:
+      213: 4595398844471010645
+    second: Parry Knigth_Sheet_13
+  - first:
+      213: -4758159396473911562
+    second: Parry Knigth_Sheet_14
+  - first:
+      213: 426279268988868774
+    second: Parry Knigth_Sheet_15
+  - first:
+      213: -3813044987301868404
+    second: Parry Knigth_Sheet_16
+  - first:
+      213: 6376979296745088148
+    second: Parry Knigth_Sheet_17
+  - first:
+      213: 547407765807922490
+    second: Parry Knigth_Sheet_18
+  - first:
+      213: 7329220026563408359
+    second: Parry Knigth_Sheet_19
+  - first:
+      213: 8703427796446788284
+    second: Parry Knigth_Sheet_20
+  - first:
+      213: 8966257050289994531
+    second: Parry Knigth_Sheet_21
+  - first:
+      213: -7626066333653402273
+    second: Parry Knigth_Sheet_22
+  - first:
+      213: -8669444752240808683
+    second: Parry Knigth_Sheet_23
+  - first:
+      213: 3237320467832178501
+    second: Parry Knigth_Sheet_24
+  - first:
+      213: 1272903909020712994
+    second: Parry Knigth_Sheet_25
+  - first:
+      213: -5264673145987234102
+    second: Parry Knigth_Sheet_26
+  - first:
+      213: -4486333126273298839
+    second: Parry Knigth_Sheet_27
+  - first:
+      213: -5706691359565443672
+    second: Parry Knigth_Sheet_28
+  - first:
+      213: -2259758332233382469
+    second: Parry Knigth_Sheet_29
+  - first:
+      213: 3570514658973634717
+    second: Parry Knigth_Sheet_30
+  - first:
+      213: -6321218657948174838
+    second: Parry Knigth_Sheet_31
+  - first:
+      213: 2901862299982880096
+    second: Parry Knigth_Sheet_32
+  - first:
+      213: -3166330586499905085
+    second: Parry Knigth_Sheet_33
+  - first:
+      213: 2752181851969037619
+    second: Parry Knigth_Sheet_34
+  - first:
+      213: 9090220813477422241
+    second: Parry Knigth_Sheet_35
+  - first:
+      213: -7033657860191893681
+    second: Parry Knigth_Sheet_36
+  - first:
+      213: 7812784856455003812
+    second: Parry Knigth_Sheet_37
+  - first:
+      213: -3187539333051028069
+    second: Parry Knigth_Sheet_38
+  - first:
+      213: 2338048185050174848
+    second: Parry Knigth_Sheet_39
+  - first:
+      213: -2344610450273458075
+    second: Parry Knigth_Sheet_40
+  - first:
+      213: -8368302547527919699
+    second: Parry Knigth_Sheet_41
+  - first:
+      213: -8441861942683187248
+    second: Parry Knigth_Sheet_42
+  - first:
+      213: -3899926425722002868
+    second: Parry Knigth_Sheet_43
+  - first:
+      213: 8419234547567159694
+    second: Parry Knigth_Sheet_44
+  - first:
+      213: -8791319699458495381
+    second: Parry Knigth_Sheet_45
+  - first:
+      213: 3468272312459811906
+    second: Parry Knigth_Sheet_46
+  - first:
+      213: -224588574216683744
+    second: Parry Knigth_Sheet_47
+  - first:
+      213: -5863335323084359468
+    second: Parry Knigth_Sheet_48
+  - first:
+      213: 6927257734652421474
+    second: Parry Knigth_Sheet_49
+  - first:
+      213: 5239816515081566969
+    second: Parry Knigth_Sheet_50
+  - first:
+      213: 1952569610798213755
+    second: Parry Knigth_Sheet_51
+  - first:
+      213: 8717506689126542245
+    second: Parry Knigth_Sheet_52
+  - first:
+      213: -7467638892362621427
+    second: Parry Knigth_Sheet_53
+  - first:
+      213: 5367702306703149125
+    second: Parry Knigth_Sheet_54
+  - first:
+      213: 8385449406671813130
+    second: Parry Knigth_Sheet_55
+  - first:
+      213: 4439106879656845693
+    second: Parry Knigth_Sheet_56
+  - first:
+      213: 3384764636080756954
+    second: Parry Knigth_Sheet_57
+  - first:
+      213: -2072059647599472924
+    second: Parry Knigth_Sheet_58
+  - first:
+      213: -408625045556305022
+    second: Parry Knigth_Sheet_59
+  - first:
+      213: 4772932372603371152
+    second: Parry Knigth_Sheet_60
+  - first:
+      213: -5821149286086323821
+    second: Parry Knigth_Sheet_61
+  - first:
+      213: -2337936896231372578
+    second: Parry Knigth_Sheet_62
+  - first:
+      213: -1963774987636951555
+    second: Parry Knigth_Sheet_63
+  - first:
+      213: 7058499495561548074
+    second: Parry Knigth_Sheet_64
+  - first:
+      213: -4008427556945619724
+    second: Parry Knigth_Sheet_65
+  - first:
+      213: -1302125376572053474
+    second: Parry Knigth_Sheet_66
+  - first:
+      213: 8084630998282913424
+    second: Parry Knigth_Sheet_67
+  - first:
+      213: 1758999245905850151
+    second: Parry Knigth_Sheet_68
+  - first:
+      213: 1022319432720915077
+    second: Parry Knigth_Sheet_69
+  - first:
+      213: 2835180601375311013
+    second: Parry Knigth_Sheet_70
+  - first:
+      213: -2976882495707679618
+    second: Parry Knigth_Sheet_71
+  - first:
+      213: 177523862405781671
+    second: Parry Knigth_Sheet_72
+  - first:
+      213: 3306919011462745637
+    second: Parry Knigth_Sheet_73
+  - first:
+      213: 7428636454292499824
+    second: Parry Knigth_Sheet_74
+  - first:
+      213: -6932972099197859867
+    second: Parry Knigth_Sheet_75
+  - first:
+      213: -736823690390154965
+    second: Parry Knigth_Sheet_76
+  - first:
+      213: 6342857330870671443
+    second: Parry Knigth_Sheet_77
+  - first:
+      213: -8135556677612263214
+    second: Parry Knigth_Sheet_78
+  - first:
+      213: 8850900878961466930
+    second: Parry Knigth_Sheet_79
+  - first:
+      213: -1755061651005879470
+    second: Parry Knigth_Sheet_80
+  - first:
+      213: -1374390523166283481
+    second: Parry Knigth_Sheet_81
+  - first:
+      213: 5679567591398683248
+    second: Parry Knigth_Sheet_82
+  - first:
+      213: -9014566611370087090
+    second: Parry Knigth_Sheet_83
+  - first:
+      213: 3896320100838710541
+    second: Parry Knigth_Sheet_84
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0931d2de614628410800000000000000
+      internalID: 1477853677362156432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 210
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee604093527f52c0800000000000000
+      internalID: -4440705004336025885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 210
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5e44ba9deb4d470800000000000000
+      internalID: 8418563445552899513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 210
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce47e8c203bf03b0800000000000000
+      internalID: -5544015791727882547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 210
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bd13373a2d599b0800000000000000
+      internalID: -5073917805708846216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 210
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d55605eda070b540800000000000000
+      internalID: 5021637476692153815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a8baaf2e83c8ab0800000000000000
+      internalID: -5004562538396153234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 168
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459d6c784a696bf80800000000000000
+      internalID: -8091114047127758508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 168
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6dc1a5387378140800000000000000
+      internalID: 4721803771613337314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 168
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52eba52595077790800000000000000
+      internalID: -7532545713613577633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 168
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfb2cd5c46666870800000000000000
+      internalID: 8675734210352431060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 168
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4578f6e39a3c865a0800000000000000
+      internalID: -6527752528209148076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78b2fc778e948000800000000000000
+      internalID: 37329001679861885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 126
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5556fedc6e226cf30800000000000000
+      internalID: 4595398844471010645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 126
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f64c7c1d3f97fdb0800000000000000
+      internalID: -4758159396473911562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 126
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8d1339cb27ae500800000000000000
+      internalID: 426279268988868774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 126
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cc94359c7551bc0800000000000000
+      internalID: -3813044987301868404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 126
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494e28a32e49f7850800000000000000
+      internalID: 6376979296745088148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 126
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d75447678c89700800000000000000
+      internalID: 547407765807922490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 126
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1bdf348ce96b560800000000000000
+      internalID: 7329220026563408359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab877d779c8c870800000000000000
+      internalID: 8703427796446788284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 84
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b706f284b8e6c70800000000000000
+      internalID: 8966257050289994531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 84
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5df50df215ca2690800000000000000
+      internalID: -7626066333653402273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 84
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51defc63ee1ffa780800000000000000
+      internalID: -8669444752240808683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 84
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5470d3d30d54dec20800000000000000
+      internalID: 3237320467832178501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 84
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220c2627c534aa110800000000000000
+      internalID: 1272903909020712994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac684eacaaf10f6b0800000000000000
+      internalID: -5264673145987234102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 42
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e89609ac75db1c0800000000000000
+      internalID: -4486333126273298839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 42
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad8f4e9172cdc0b0800000000000000
+      internalID: -5706691359565443672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 42
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5000105c9b3a0e0800000000000000
+      internalID: -2259758332233382469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 42
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90d2793a240d8130800000000000000
+      internalID: 3570514658973634717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 42
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a067d613f158648a0800000000000000
+      internalID: -6321218657948174838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 42
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dd399136c754820800000000000000
+      internalID: 2901862299982880096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 42
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c908368b1fee04d0800000000000000
+      internalID: -3166330586499905085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 42
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33524eb00d6b13620800000000000000
+      internalID: 2752181851969037619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 42
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a42f25faa3f62e70800000000000000
+      internalID: 9090220813477422241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 42
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47c0ab217d636e90800000000000000
+      internalID: -7033657860191893681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 42
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae3d8bde669c6c60800000000000000
+      internalID: 7812784856455003812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 42
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d68e96dd593c3d0800000000000000
+      internalID: -3187539333051028069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 42
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08599a1df6a627020800000000000000
+      internalID: 2338048185050174848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56828ceb735467fd0800000000000000
+      internalID: -2344610450273458075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da71a919b21dddb80800000000000000
+      internalID: -8368302547527919699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7ca7f3a4b78da80800000000000000
+      internalID: -8441861942683187248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c426ea8149da0e9c0800000000000000
+      internalID: -3899926425722002868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89ef68c63127d470800000000000000
+      internalID: 8419234547567159694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ce1eecf45fef580800000000000000
+      internalID: -8791319699458495381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c5d70ea47c12030800000000000000
+      internalID: 3468272312459811906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ff335b1e912ecf0800000000000000
+      internalID: -224588574216683744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d87e84c69f31aea0800000000000000
+      internalID: -5863335323084359468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265e88d1530922060800000000000000
+      internalID: 6927257734652421474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa79a5db5197b840800000000000000
+      internalID: 5239816515081566969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aa9d247bbe81b10800000000000000
+      internalID: 1952569610798213755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abaa7c752ecaf870800000000000000
+      internalID: 8717506689126542245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e95dd1efd9d5890800000000000000
+      internalID: -7467638892362621427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54806130fc8ed7a40800000000000000
+      internalID: 5367702306703149125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0afeaeaec91f5470800000000000000
+      internalID: 8385449406671813130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7160f90030ea9d30800000000000000
+      internalID: 4439106879656845693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8d5e5d08919fe20800000000000000
+      internalID: 3384764636080756954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee896f8ab09e33e0800000000000000
+      internalID: -2072059647599472924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283e941afa5445af0800000000000000
+      internalID: -408625045556305022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e7cfd64bcdc3240800000000000000
+      internalID: 4772932372603371152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3915e4ae09f173fa0800000000000000
+      internalID: -5821149286086323821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed889d0a7cafd8fd0800000000000000
+      internalID: -2337936896231372578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df53a13ad054fb4e0800000000000000
+      internalID: -1963774987636951555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a215838c4e3d4f160800000000000000
+      internalID: 7058499495561548074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f49e50ef543f58c0800000000000000
+      internalID: -4008427556945619724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18a6647edbedede0800000000000000
+      internalID: -1302125376572053474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry Knigth_Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096c3c80f01623070800000000000000
+      internalID: 8084630998282913424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

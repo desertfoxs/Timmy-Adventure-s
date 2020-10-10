@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 1cb6a46f5d2c94340a85a4f31ed6a04f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6939514196304753936
+    second: Sprite_tide_houses-plants-rocks_0
+  - first:
+      213: -5405186766694692655
+    second: Sprite_tide_houses-plants-rocks_1
+  - first:
+      213: 2863241409116503128
+    second: Sprite_tide_houses-plants-rocks_2
+  - first:
+      213: 8427992072925761321
+    second: Sprite_tide_houses-plants-rocks_3
+  - first:
+      213: 8016345216493713838
+    second: Sprite_tide_houses-plants-rocks_4
+  - first:
+      213: -7525859253839169532
+    second: Sprite_tide_houses-plants-rocks_5
+  - first:
+      213: 5781720958168363493
+    second: Sprite_tide_houses-plants-rocks_6
+  - first:
+      213: -1299529463628630530
+    second: Sprite_tide_houses-plants-rocks_7
+  - first:
+      213: -13895067664061788
+    second: Sprite_tide_houses-plants-rocks_8
+  - first:
+      213: -9042091267790184616
+    second: Sprite_tide_houses-plants-rocks_9
+  - first:
+      213: 4788183801880749281
+    second: Sprite_tide_houses-plants-rocks_10
+  - first:
+      213: -4112330665938534108
+    second: Sprite_tide_houses-plants-rocks_11
+  - first:
+      213: -3362901754033813959
+    second: Sprite_tide_houses-plants-rocks_12
+  - first:
+      213: -1123285821898823969
+    second: Sprite_tide_houses-plants-rocks_13
+  - first:
+      213: 4784005518927735903
+    second: Sprite_tide_houses-plants-rocks_14
+  - first:
+      213: 647980756724172182
+    second: Sprite_tide_houses-plants-rocks_15
+  - first:
+      213: 5194794075992241029
+    second: Sprite_tide_houses-plants-rocks_16
+  - first:
+      213: 7662785053923805352
+    second: Sprite_tide_houses-plants-rocks_17
+  - first:
+      213: -1188108086743862627
+    second: Sprite_tide_houses-plants-rocks_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 444
+        width: 283
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa89770b94e1bf90800000000000000
+      internalID: -6939514196304753936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 444
+        width: 190
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8458a064becf4b0800000000000000
+      internalID: -5405186766694692655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 277
+        width: 190
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cf39834e64cb720800000000000000
+      internalID: 2863241409116503128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 277
+        width: 282
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f4c8c032e36f470800000000000000
+      internalID: 8427992072925761321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 125
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea972028087cf3f60800000000000000
+      internalID: 8016345216493713838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 123
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4087451e1e6ce8790800000000000000
+      internalID: -7525859253839169532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 123
+        width: 135
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e17e0e149ccc3050800000000000000
+      internalID: 5781720958168363493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 77
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5f24986d427fde0800000000000000
+      internalID: -1299529463628630530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 77
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aae0c37282aecff0800000000000000
+      internalID: -13895067664061788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 81
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f54b426e9048280800000000000000
+      internalID: -9042091267790184616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 82
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4a1668ccb037240800000000000000
+      internalID: 4788183801880749281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 83
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421c9c12c011ee6c0800000000000000
+      internalID: -4112330665938534108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936c6401ca29451d0800000000000000
+      internalID: -3362901754033813959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 48
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6ec741f794960f0800000000000000
+      internalID: -1123285821898823969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 50
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c22373ca3346240800000000000000
+      internalID: 4784005518927735903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 51
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69545d9a0171ef800800000000000000
+      internalID: 647980756724172182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 52
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58332dc50bd971840800000000000000
+      internalID: 5194794075992241029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 22
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a80d49486ea75a60800000000000000
+      internalID: 7662785053923805352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_tide_houses-plants-rocks_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 22
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92fcde6dfdf28fe0800000000000000
+      internalID: -1188108086743862627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

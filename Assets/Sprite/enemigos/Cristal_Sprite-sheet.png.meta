@@ -1,0 +1,2927 @@
+fileFormatVersion: 2
+guid: 6c3ce6e2ad03cce4f9945db2846cb0d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1176164669556490706
+    second: Cristal_Sprite-sheet_0
+  - first:
+      213: 4256808509617042371
+    second: Cristal_Sprite-sheet_1
+  - first:
+      213: -7202837739634285609
+    second: Cristal_Sprite-sheet_2
+  - first:
+      213: -872457556070692136
+    second: Cristal_Sprite-sheet_3
+  - first:
+      213: 7097679392673730970
+    second: Cristal_Sprite-sheet_4
+  - first:
+      213: 3691060318172041862
+    second: Cristal_Sprite-sheet_5
+  - first:
+      213: -2885869507897291755
+    second: Cristal_Sprite-sheet_6
+  - first:
+      213: 6235747261714751300
+    second: Cristal_Sprite-sheet_7
+  - first:
+      213: -7659947230822237352
+    second: Cristal_Sprite-sheet_8
+  - first:
+      213: -8099148501262333816
+    second: Cristal_Sprite-sheet_9
+  - first:
+      213: 4431031146630312459
+    second: Cristal_Sprite-sheet_10
+  - first:
+      213: -3964687984477070579
+    second: Cristal_Sprite-sheet_11
+  - first:
+      213: 7188472160929937823
+    second: Cristal_Sprite-sheet_12
+  - first:
+      213: 5759562574899522283
+    second: Cristal_Sprite-sheet_13
+  - first:
+      213: -7022260791309508584
+    second: Cristal_Sprite-sheet_14
+  - first:
+      213: 8685396333557141699
+    second: Cristal_Sprite-sheet_15
+  - first:
+      213: -14491410267200012
+    second: Cristal_Sprite-sheet_16
+  - first:
+      213: 5894544688095579227
+    second: Cristal_Sprite-sheet_17
+  - first:
+      213: 534724494927274196
+    second: Cristal_Sprite-sheet_18
+  - first:
+      213: 710769768922552146
+    second: Cristal_Sprite-sheet_19
+  - first:
+      213: -4529260861631787929
+    second: Cristal_Sprite-sheet_20
+  - first:
+      213: -1050553192093068587
+    second: Cristal_Sprite-sheet_21
+  - first:
+      213: -6189368404366024026
+    second: Cristal_Sprite-sheet_22
+  - first:
+      213: -1233345195503352046
+    second: Cristal_Sprite-sheet_23
+  - first:
+      213: 7066738920405918670
+    second: Cristal_Sprite-sheet_24
+  - first:
+      213: 6413132265120992135
+    second: Cristal_Sprite-sheet_25
+  - first:
+      213: -5040437085845047385
+    second: Cristal_Sprite-sheet_26
+  - first:
+      213: -1108483110631755584
+    second: Cristal_Sprite-sheet_27
+  - first:
+      213: -6883168072674327176
+    second: Cristal_Sprite-sheet_28
+  - first:
+      213: 8736849248603088534
+    second: Cristal_Sprite-sheet_29
+  - first:
+      213: -7636442198688427897
+    second: Cristal_Sprite-sheet_30
+  - first:
+      213: -1114463169628520189
+    second: Cristal_Sprite-sheet_31
+  - first:
+      213: -3420448948580809647
+    second: Cristal_Sprite-sheet_32
+  - first:
+      213: 4456011643553620500
+    second: Cristal_Sprite-sheet_33
+  - first:
+      213: -8100380226821640140
+    second: Cristal_Sprite-sheet_34
+  - first:
+      213: -1968819312557106469
+    second: Cristal_Sprite-sheet_35
+  - first:
+      213: 3875788481839185423
+    second: Cristal_Sprite-sheet_36
+  - first:
+      213: -1096704043878005196
+    second: Cristal_Sprite-sheet_37
+  - first:
+      213: 4886170807671544700
+    second: Cristal_Sprite-sheet_38
+  - first:
+      213: 6275579746777088805
+    second: Cristal_Sprite-sheet_39
+  - first:
+      213: 1987196768794019541
+    second: Cristal_Sprite-sheet_40
+  - first:
+      213: -3554252584447398315
+    second: Cristal_Sprite-sheet_41
+  - first:
+      213: -1450268555919072511
+    second: Cristal_Sprite-sheet_42
+  - first:
+      213: -3147391203066179996
+    second: Cristal_Sprite-sheet_43
+  - first:
+      213: -6058401913318210980
+    second: Cristal_Sprite-sheet_44
+  - first:
+      213: -1426879081596981795
+    second: Cristal_Sprite-sheet_45
+  - first:
+      213: -5557177043673892400
+    second: Cristal_Sprite-sheet_46
+  - first:
+      213: -3930683611264281057
+    second: Cristal_Sprite-sheet_47
+  - first:
+      213: 3301737865911889840
+    second: Cristal_Sprite-sheet_48
+  - first:
+      213: 3196939512134352616
+    second: Cristal_Sprite-sheet_49
+  - first:
+      213: 3716289796557052254
+    second: Cristal_Sprite-sheet_50
+  - first:
+      213: 1148615281108024605
+    second: Cristal_Sprite-sheet_51
+  - first:
+      213: 90607129751113555
+    second: Cristal_Sprite-sheet_52
+  - first:
+      213: -3197559286941953762
+    second: Cristal_Sprite-sheet_53
+  - first:
+      213: 4449840612156464003
+    second: Cristal_Sprite-sheet_54
+  - first:
+      213: 8128119945196751728
+    second: Cristal_Sprite-sheet_55
+  - first:
+      213: 805230248767940158
+    second: Cristal_Sprite-sheet_56
+  - first:
+      213: -7629132066805461527
+    second: Cristal_Sprite-sheet_57
+  - first:
+      213: 8412818394867667362
+    second: Cristal_Sprite-sheet_58
+  - first:
+      213: 4824237431095690936
+    second: Cristal_Sprite-sheet_59
+  - first:
+      213: -8870396035029784015
+    second: Cristal_Sprite-sheet_60
+  - first:
+      213: 4371878034920411540
+    second: Cristal_Sprite-sheet_61
+  - first:
+      213: -2011784859158377856
+    second: Cristal_Sprite-sheet_62
+  - first:
+      213: 4469700107858509027
+    second: Cristal_Sprite-sheet_63
+  - first:
+      213: -4679579789778031284
+    second: Cristal_Sprite-sheet_64
+  - first:
+      213: 1658030057465316165
+    second: Cristal_Sprite-sheet_65
+  - first:
+      213: 5685589121152727096
+    second: Cristal_Sprite-sheet_66
+  - first:
+      213: -1763581513309285988
+    second: Cristal_Sprite-sheet_67
+  - first:
+      213: 5271408265529373895
+    second: Cristal_Sprite-sheet_68
+  - first:
+      213: 5190080981039389392
+    second: Cristal_Sprite-sheet_69
+  - first:
+      213: -7457969364708272494
+    second: Cristal_Sprite-sheet_70
+  - first:
+      213: -8607581067104834791
+    second: Cristal_Sprite-sheet_71
+  - first:
+      213: -3974942884689821795
+    second: Cristal_Sprite-sheet_72
+  - first:
+      213: -88550485999392415
+    second: Cristal_Sprite-sheet_73
+  - first:
+      213: -5440490985710635971
+    second: Cristal_Sprite-sheet_74
+  - first:
+      213: 123588672436674264
+    second: Cristal_Sprite-sheet_75
+  - first:
+      213: 1342571131202778695
+    second: Cristal_Sprite-sheet_76
+  - first:
+      213: -4340828095932433550
+    second: Cristal_Sprite-sheet_77
+  - first:
+      213: 91896082101225444
+    second: Cristal_Sprite-sheet_78
+  - first:
+      213: -8087522152004559868
+    second: Cristal_Sprite-sheet_79
+  - first:
+      213: 7324502730629408975
+    second: Cristal_Sprite-sheet_80
+  - first:
+      213: 1440160879922372386
+    second: Cristal_Sprite-sheet_81
+  - first:
+      213: -1591478754574900835
+    second: Cristal_Sprite-sheet_82
+  - first:
+      213: -4813336660912051768
+    second: Cristal_Sprite-sheet_83
+  - first:
+      213: -917638543262285243
+    second: Cristal_Sprite-sheet_84
+  - first:
+      213: -628041487349379357
+    second: Cristal_Sprite-sheet_85
+  - first:
+      213: 3788809507965947868
+    second: Cristal_Sprite-sheet_86
+  - first:
+      213: -3863165097449014180
+    second: Cristal_Sprite-sheet_87
+  - first:
+      213: -5816651232465373700
+    second: Cristal_Sprite-sheet_88
+  - first:
+      213: 4359297256563903896
+    second: Cristal_Sprite-sheet_89
+  - first:
+      213: -1449678840367187456
+    second: Cristal_Sprite-sheet_90
+  - first:
+      213: -9061160720769001997
+    second: Cristal_Sprite-sheet_91
+  - first:
+      213: -2865158859742557338
+    second: Cristal_Sprite-sheet_92
+  - first:
+      213: -4881890944970831294
+    second: Cristal_Sprite-sheet_93
+  - first:
+      213: 8268753410137461287
+    second: Cristal_Sprite-sheet_94
+  - first:
+      213: -6027630260534950677
+    second: Cristal_Sprite-sheet_95
+  - first:
+      213: 2700539547260510804
+    second: Cristal_Sprite-sheet_96
+  - first:
+      213: -932274655196084743
+    second: Cristal_Sprite-sheet_97
+  - first:
+      213: 7721227544688701987
+    second: Cristal_Sprite-sheet_98
+  - first:
+      213: -403359979603885090
+    second: Cristal_Sprite-sheet_99
+  - first:
+      213: -3276465463945198378
+    second: Cristal_Sprite-sheet_100
+  - first:
+      213: 5871039613662328117
+    second: Cristal_Sprite-sheet_101
+  - first:
+      213: 1149860642475330421
+    second: Cristal_Sprite-sheet_102
+  - first:
+      213: 48854372496563933
+    second: Cristal_Sprite-sheet_103
+  - first:
+      213: 6705022691813285743
+    second: Cristal_Sprite-sheet_0
+  - first:
+      213: 5256962262947970726
+    second: Cristal_Sprite-sheet_1
+  - first:
+      213: -1061667591499647980
+    second: Cristal_Sprite-sheet_2
+  - first:
+      213: 2126049131455166022
+    second: Cristal_Sprite-sheet_3
+  - first:
+      213: -6908712722149022622
+    second: Cristal_Sprite-sheet_4
+  - first:
+      213: -2684132653219703920
+    second: Cristal_Sprite-sheet_5
+  - first:
+      213: 36872253316942
+    second: Cristal_Sprite-sheet_6
+  - first:
+      213: -2276548804442807305
+    second: Cristal_Sprite-sheet_7
+  - first:
+      213: -3252181325767526507
+    second: Cristal_Sprite-sheet_8
+  - first:
+      213: 1357951514280512546
+    second: Cristal_Sprite-sheet_9
+  - first:
+      213: 3623366874504862344
+    second: Cristal_Sprite-sheet_10
+  - first:
+      213: -2955201826960107088
+    second: Cristal_Sprite-sheet_11
+  - first:
+      213: 8573317250633389090
+    second: Cristal_Sprite-sheet_12
+  - first:
+      213: 2305582963327519485
+    second: Cristal_Sprite-sheet_13
+  - first:
+      213: 2648337666148866744
+    second: Cristal_Sprite-sheet_14
+  - first:
+      213: 6019890411794876462
+    second: Cristal_Sprite-sheet_15
+  - first:
+      213: -6318076818501003319
+    second: Cristal_Sprite-sheet_16
+  - first:
+      213: -5423965851505475217
+    second: Cristal_Sprite-sheet_17
+  - first:
+      213: -1614703178927248613
+    second: Cristal_Sprite-sheet_18
+  - first:
+      213: 2852586742864484097
+    second: Cristal_Sprite-sheet_19
+  - first:
+      213: 8947054300849511116
+    second: Cristal_Sprite-sheet_20
+  - first:
+      213: 4331336627046696240
+    second: Cristal_Sprite-sheet_21
+  - first:
+      213: 542369709046739410
+    second: Cristal_Sprite-sheet_22
+  - first:
+      213: 6925102118599429855
+    second: Cristal_Sprite-sheet_23
+  - first:
+      213: -2897256651163002630
+    second: Cristal_Sprite-sheet_24
+  - first:
+      213: 439707723448775113
+    second: Cristal_Sprite-sheet_25
+  - first:
+      213: -1935885499707396218
+    second: Cristal_Sprite-sheet_26
+  - first:
+      213: -5881452713097057629
+    second: Cristal_Sprite-sheet_27
+  - first:
+      213: 2474773370947620524
+    second: Cristal_Sprite-sheet_28
+  - first:
+      213: 4150912522337494470
+    second: Cristal_Sprite-sheet_29
+  - first:
+      213: 4909230406802849663
+    second: Cristal_Sprite-sheet_30
+  - first:
+      213: -5987108736588973860
+    second: Cristal_Sprite-sheet_31
+  - first:
+      213: -4930990322772049311
+    second: Cristal_Sprite-sheet_32
+  - first:
+      213: 9124454496260604980
+    second: Cristal_Sprite-sheet_33
+  - first:
+      213: -4346109152950370969
+    second: Cristal_Sprite-sheet_34
+  - first:
+      213: 1861090987161616579
+    second: Cristal_Sprite-sheet_35
+  - first:
+      213: -3347473475016950549
+    second: Cristal_Sprite-sheet_36
+  - first:
+      213: -6861473488495991929
+    second: Cristal_Sprite-sheet_37
+  - first:
+      213: 1698254030255217982
+    second: Cristal_Sprite-sheet_38
+  - first:
+      213: 4435205946300384175
+    second: Cristal_Sprite-sheet_39
+  - first:
+      213: -958836022759424115
+    second: Cristal_Sprite-sheet_40
+  - first:
+      213: -5421922320228307566
+    second: Cristal_Sprite-sheet_41
+  - first:
+      213: -6077107462050666232
+    second: Cristal_Sprite-sheet_42
+  - first:
+      213: 6787105584348614054
+    second: Cristal_Sprite-sheet_43
+  - first:
+      213: 8502843650247024639
+    second: Cristal_Sprite-sheet_44
+  - first:
+      213: -3855073195840253482
+    second: Cristal_Sprite-sheet_45
+  - first:
+      213: -2046260431336054748
+    second: Cristal_Sprite-sheet_46
+  - first:
+      213: -8495496602881402209
+    second: Cristal_Sprite-sheet_47
+  - first:
+      213: -5506509576263206860
+    second: Cristal_Sprite-sheet_48
+  - first:
+      213: -5955224208431807468
+    second: Cristal_Sprite-sheet_49
+  - first:
+      213: 8545187556150202082
+    second: Cristal_Sprite-sheet_50
+  - first:
+      213: 557585593647006387
+    second: Cristal_Sprite-sheet_51
+  - first:
+      213: 5356113349031536676
+    second: Cristal_Sprite-sheet_52
+  - first:
+      213: 1068345163360554950
+    second: Cristal_Sprite-sheet_53
+  - first:
+      213: -1230436267816081226
+    second: Cristal_Sprite-sheet_54
+  - first:
+      213: 5829388601858318996
+    second: Cristal_Sprite-sheet_55
+  - first:
+      213: -5161277222739207094
+    second: Cristal_Sprite-sheet_56
+  - first:
+      213: -8214975044631982344
+    second: Cristal_Sprite-sheet_57
+  - first:
+      213: -6284518626410139784
+    second: Cristal_Sprite-sheet_58
+  - first:
+      213: -7859286405208857436
+    second: Cristal_Sprite-sheet_59
+  - first:
+      213: -7812318427150717673
+    second: Cristal_Sprite-sheet_60
+  - first:
+      213: 8288718485020849154
+    second: Cristal_Sprite-sheet_61
+  - first:
+      213: 7470519653812912987
+    second: Cristal_Sprite-sheet_62
+  - first:
+      213: 7035026098152068607
+    second: Cristal_Sprite-sheet_63
+  - first:
+      213: 734349124558870195
+    second: Cristal_Sprite-sheet_64
+  - first:
+      213: 7266456890342629135
+    second: Cristal_Sprite-sheet_65
+  - first:
+      213: -6877149429109968160
+    second: Cristal_Sprite-sheet_66
+  - first:
+      213: -1762159127910033808
+    second: Cristal_Sprite-sheet_67
+  - first:
+      213: -836774867667177129
+    second: Cristal_Sprite-sheet_68
+  - first:
+      213: -6550466740331254357
+    second: Cristal_Sprite-sheet_69
+  - first:
+      213: -5281627118971599372
+    second: Cristal_Sprite-sheet_70
+  - first:
+      213: 3907322538416642135
+    second: Cristal_Sprite-sheet_71
+  - first:
+      213: -4906071913724159488
+    second: Cristal_Sprite-sheet_72
+  - first:
+      213: 2800400140869976826
+    second: Cristal_Sprite-sheet_73
+  - first:
+      213: 3189789839924273145
+    second: Cristal_Sprite-sheet_74
+  - first:
+      213: 208970631663970559
+    second: Cristal_Sprite-sheet_75
+  - first:
+      213: -1343207868007982787
+    second: Cristal_Sprite-sheet_76
+  - first:
+      213: -733662135510358369
+    second: Cristal_Sprite-sheet_77
+  - first:
+      213: 2841538774197179980
+    second: Cristal_Sprite-sheet_78
+  - first:
+      213: -6734294448993754935
+    second: Cristal_Sprite-sheet_79
+  - first:
+      213: 6211056331979217265
+    second: Cristal_Sprite-sheet_80
+  - first:
+      213: -8186755575426085788
+    second: Cristal_Sprite-sheet_81
+  - first:
+      213: -591784438708769667
+    second: Cristal_Sprite-sheet_82
+  - first:
+      213: -3847138461708784774
+    second: Cristal_Sprite-sheet_83
+  - first:
+      213: 4304405837480363675
+    second: Cristal_Sprite-sheet_84
+  - first:
+      213: -2172185071363453577
+    second: Cristal_Sprite-sheet_85
+  - first:
+      213: -4378492713731679925
+    second: Cristal_Sprite-sheet_86
+  - first:
+      213: -3024470509634411532
+    second: Cristal_Sprite-sheet_87
+  - first:
+      213: -5678487345012433659
+    second: Cristal_Sprite-sheet_88
+  - first:
+      213: 8069676250221991842
+    second: Cristal_Sprite-sheet_89
+  - first:
+      213: -2098249419573297861
+    second: Cristal_Sprite-sheet_90
+  - first:
+      213: -4914018297278975518
+    second: Cristal_Sprite-sheet_91
+  - first:
+      213: 1839256423323367561
+    second: Cristal_Sprite-sheet_92
+  - first:
+      213: -2399898470998359431
+    second: Cristal_Sprite-sheet_93
+  - first:
+      213: -4521500401834749449
+    second: Cristal_Sprite-sheet_94
+  - first:
+      213: 2153666694138697010
+    second: Cristal_Sprite-sheet_95
+  - first:
+      213: -955842123306555738
+    second: Cristal_Sprite-sheet_96
+  - first:
+      213: 2931305253528888149
+    second: Cristal_Sprite-sheet_97
+  - first:
+      213: 257016838449453936
+    second: Cristal_Sprite-sheet_98
+  - first:
+      213: -4473739062273430862
+    second: Cristal_Sprite-sheet_99
+  - first:
+      213: -183431070291093218
+    second: Cristal_Sprite-sheet_100
+  - first:
+      213: -1701897811283102994
+    second: Cristal_Sprite-sheet_101
+  - first:
+      213: 2997467445237613792
+    second: Cristal_Sprite-sheet_102
+  - first:
+      213: 4133200252109847170
+    second: Cristal_Sprite-sheet_103
+  - first:
+      213: 7651800932715929993
+    second: Cristal_Sprite-sheet_104
+  - first:
+      213: -6665320178960840780
+    second: Cristal_Sprite-sheet_105
+  - first:
+      213: -5138727171795443533
+    second: Cristal_Sprite-sheet_106
+  - first:
+      213: 7745144478441536454
+    second: Cristal_Sprite-sheet_107
+  - first:
+      213: 3677205516289967261
+    second: Cristal_Sprite-sheet_108
+  - first:
+      213: -2446300497034565552
+    second: Cristal_Sprite-sheet_109
+  - first:
+      213: 6146353351884110358
+    second: Cristal_Sprite-sheet_110
+  - first:
+      213: -7609754810881676592
+    second: Cristal_Sprite-sheet_111
+  - first:
+      213: 1553260157190384222
+    second: Cristal_Sprite-sheet_112
+  - first:
+      213: 5717165926964263908
+    second: Cristal_Sprite-sheet_113
+  - first:
+      213: 8816072030812200234
+    second: Cristal_Sprite-sheet_114
+  - first:
+      213: -3289159179584903064
+    second: Cristal_Sprite-sheet_115
+  - first:
+      213: -5759525704950085385
+    second: Cristal_Sprite-sheet_116
+  - first:
+      213: 7389375543265329881
+    second: Cristal_Sprite-sheet_117
+  - first:
+      213: -2292967077194895649
+    second: Cristal_Sprite-sheet_118
+  - first:
+      213: 7210742053012136487
+    second: Cristal_Sprite-sheet_119
+  - first:
+      213: 1451675028731582850
+    second: Cristal_Sprite-sheet_120
+  - first:
+      213: 1620963521694372758
+    second: Cristal_Sprite-sheet_121
+  - first:
+      213: -7513416171511192999
+    second: Cristal_Sprite-sheet_122
+  - first:
+      213: -4211368943607319714
+    second: Cristal_Sprite-sheet_123
+  - first:
+      213: -8325399728310656473
+    second: Cristal_Sprite-sheet_124
+  - first:
+      213: -8823007709988142037
+    second: Cristal_Sprite-sheet_125
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 3
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fd67c0d960d0d50800000000000000
+      internalID: 6705022691813285743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 128
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeb5a8535b74f840800000000000000
+      internalID: 5256962262947970726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 128
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4147e1353f23441f0800000000000000
+      internalID: -1061667591499647980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 128
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646b967bb6e318d10800000000000000
+      internalID: 2126049131455166022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 128
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264e51512625f10a0800000000000000
+      internalID: -6908712722149022622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 128
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09310d2b29b00cad0800000000000000
+      internalID: -2684132653219703920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 128
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f9f8df881200000800000000000000
+      internalID: 36872253316942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 128
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3a85d8ce21860e0800000000000000
+      internalID: -2276548804442807305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597b774a05eedd2d0800000000000000
+      internalID: -3252181325767526507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cc4ee15b968d210800000000000000
+      internalID: 1357951514280512546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a97c599f8c84230800000000000000
+      internalID: 3623366874504862344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9157088930df6d0800000000000000
+      internalID: -2955201826960107088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2245bb6bd9a8af670800000000000000
+      internalID: 8573317250633389090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa44595d731fff10800000000000000
+      internalID: 2305582963327519485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba171c6319c0c420800000000000000
+      internalID: 2648337666148866744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2840dd4f62fa8350800000000000000
+      internalID: 6019890411794876462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c71e91bb9ea158a0800000000000000
+      internalID: -6318076818501003319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61ca23abc33ab4b0800000000000000
+      internalID: -5423965851505475217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1be85a830c6799e0800000000000000
+      internalID: -1614703178927248613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1071d6b678c669720800000000000000
+      internalID: 2852586742864484097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca144cab725a2c70800000000000000
+      internalID: 8947054300849511116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035c1c1c6bffb1c30800000000000000
+      internalID: 4331336627046696240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1b9a47062e68700800000000000000
+      internalID: 542369709046739410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde8c64afa7ea1060800000000000000
+      internalID: 6925102118599429855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af89a441d60eac7d0800000000000000
+      internalID: -2897256651163002630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1f82548d72a1600800000000000000
+      internalID: 439707723448775113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f6c10156a5225e0800000000000000
+      internalID: -1935885499707396218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaa7903be1e06ea0800000000000000
+      internalID: -5881452713097057629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caecdead449285220800000000000000
+      internalID: 2474773370947620524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5a5a352f00b9930800000000000000
+      internalID: 4150912522337494470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fb7067b07112440800000000000000
+      internalID: 4909230406802849663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8f9fb335489eca0800000000000000
+      internalID: -5987108736588973860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162884c4d6a919bb0800000000000000
+      internalID: -4930990322772049311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43444da550390ae70800000000000000
+      internalID: 9124454496260604980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76db15780c48fa3c0800000000000000
+      internalID: -4346109152950370969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c00370746ce3d910800000000000000
+      internalID: 1861090987161616579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec72923c926b81d0800000000000000
+      internalID: -3347473475016950549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783af62473627c0a0800000000000000
+      internalID: -6861473488495991929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ddcb3fa09619710800000000000000
+      internalID: 1698254030255217982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa34fe63f440d8d30800000000000000
+      internalID: 4435205946300384175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f7399a7b781b2f0800000000000000
+      internalID: -958836022759424115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29da707506671c4b0800000000000000
+      internalID: -5421922320228307566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 66
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809289e06f6c9aba0800000000000000
+      internalID: -6077107462050666232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad4b20c194a03e50800000000000000
+      internalID: 6787105584348614054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffd8a9ff3b200670800000000000000
+      internalID: 8502843650247024639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1dfca7a57008ac0800000000000000
+      internalID: -3855073195840253482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420e640baf83a93e0800000000000000
+      internalID: -2046260431336054748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a57bac9dee91a80800000000000000
+      internalID: -8495496602881402209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4387b8217b2f493b0800000000000000
+      internalID: -5506509576263206860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4148d92722bca5da0800000000000000
+      internalID: -5955224208431807468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eecb67deca969670800000000000000
+      internalID: 8545187556150202082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b28439a421fcb700800000000000000
+      internalID: 557585593647006387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428a0c986bcb45a40800000000000000
+      internalID: 5356113349031536676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfcc97044683de00800000000000000
+      internalID: 1068345163360554950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8a01acbbc9ceee0800000000000000
+      internalID: -1230436267816081226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e9774c0626e050800000000000000
+      internalID: 5829388601858318996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c905726b57f58b0800000000000000
+      internalID: -5161277222739207094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe0302c8bb8efd80800000000000000
+      internalID: -8214975044631982344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f6f782b97e8c8a0800000000000000
+      internalID: -6284518626410139784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4287d97a43ee290800000000000000
+      internalID: -7859286405208857436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d617d28c1159390800000000000000
+      internalID: -7812318427150717673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204b1eeeb81770370800000000000000
+      internalID: 8288718485020849154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53c71d6b0e9ca760800000000000000
+      internalID: 7470519653812912987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5d4fd86fe61a160800000000000000
+      internalID: 7035026098152068607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6537653aee03a00800000000000000
+      internalID: 734349124558870195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fdf8cda04a7d460800000000000000
+      internalID: 7266456890342629135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2be9ae7057f80a0800000000000000
+      internalID: -6877149429109968160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076d5370c9d8b87e0800000000000000
+      internalID: -1762159127910033808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75139b7f0bd2364f0800000000000000
+      internalID: -836774867667177129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad6b8d94311815a0800000000000000
+      internalID: -6550466740331254357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5c0a95e14e3b6b0800000000000000
+      internalID: -5281627118971599372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75893359529993630800000000000000
+      internalID: 3907322538416642135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a53f386912aebb0800000000000000
+      internalID: -4906071913724159488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2428947150dd620800000000000000
+      internalID: 2800400140869976826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff16dc85f8644c20800000000000000
+      internalID: 3189789839924273145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8e1dcaea966e200800000000000000
+      internalID: 208970631663970559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39dfd78f87fb5de0800000000000000
+      internalID: -1343207868007982787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9620c3cc2281d5f0800000000000000
+      internalID: -733662135510358369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c469583c57c2f6720800000000000000
+      internalID: 2841538774197179980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0a7d2e0eafa82a0800000000000000
+      internalID: -6734294448993754935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179df8b83da123650800000000000000
+      internalID: 6211056331979217265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c87cfed2dc26e80800000000000000
+      internalID: -8186755575426085788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ce82b303f89c7f0800000000000000
+      internalID: -591784438708769667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bea1cb3f73c9ac0800000000000000
+      internalID: -3847138461708784774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b968220bd425cbb30800000000000000
+      internalID: 4304405837480363675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d89f2bf29dad1e0800000000000000
+      internalID: -2172185071363453577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49136a33187c33c0800000000000000
+      internalID: -4378492713731679925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3a897881ce606d0800000000000000
+      internalID: -3024470509634411532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d9bfa78d5f131b0800000000000000
+      internalID: -5678487345012433659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a753ea6bcf3dff60800000000000000
+      internalID: 8069676250221991842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3df928154581e2e0800000000000000
+      internalID: -2098249419573297861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1baeae466edcbb0800000000000000
+      internalID: -4914018297278975518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9887b03e8f9568910800000000000000
+      internalID: 1839256423323367561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972c32b4e09d1bed0800000000000000
+      internalID: -2399898470998359431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f19ad827576041c0800000000000000
+      internalID: -4521500401834749449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2351abc927c53ed10800000000000000
+      internalID: 2153666694138697010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a625f237aa2cb2f0800000000000000
+      internalID: -955842123306555738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55363dce8961ea820800000000000000
+      internalID: 2931305253528888149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bd21de37b119300800000000000000
+      internalID: 257016838449453936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba276796061ae1c0800000000000000
+      internalID: -4473739062273430862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cristal_Sprite-sheet_100
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 4
+        width: 50
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e199786d962547df0800000000000000
+      internalID: -183431070291093218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
